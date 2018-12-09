@@ -1,0 +1,83 @@
+﻿html {
+    background-color: orangered;
+}
+body {
+    color: white;
+    margin: 0 auto;
+    margin-top: 2em;
+    margin-bottom: 50em;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+
+}
+.otsikko-ikkuna {
+    background-color: transparent;
+    position: absolute;
+    top: 1em;
+    left: 4em;
+    text-transform: uppercase;
+    text-align: right;
+    font-size: 1.5em;
+}
+
+#kuva {
+    position: absolute;
+    left: 27em;
+    top: 2em;
+    width: 540px;
+    border-style: solid;
+    border-color: white;
+    border-width: 10px;
+    margin-bottom: 5em;
+    z-index: -1;
+}
+
+.työkokemus-ikkuna {
+    background-color: white;
+    color: #333333;
+    position: absolute;
+    width: 21em;
+    margin-left: 56em;
+    margin-top: 8em;
+    padding: 1em 3em;
+}
+
+.taidot-ikkuna {
+    background-color: white;
+    color: #333333;
+    float: left;
+    width: 21em;
+    margin-top: 12em;
+    margin-left: 4em;
+    padding: 1em 3em;
+}
+
+.nimi-ja-yhteystiedot-ikkuna {
+    background-color: transparent;
+    position: absolute;
+    left: 34em;
+    top: 34em;
+    margin: 0;
+}
+
+.ajanjakso {
+    font-size: 10px;
+    color: #777777;
+    vertical-align: text-bottom;
+}
+.titteli {
+    font-size: 16px;
+    text-transform: uppercase;
+    margin-bottom: 1;
+}
+.yhtiö {
+
+}
+.paikka {
+    font-size: 10px;
+    color: #777777;
+}
+
+p {
+    margin-bottom: 8px;
+    margin-top: 5px;
+}
