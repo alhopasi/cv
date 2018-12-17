@@ -41,6 +41,15 @@ body {
     padding: 1em 3em;
 }
 
+.englanti-linkki {
+    color: white;
+    position: absolute;
+    width: 21em;
+    margin-left: 70em;
+    margin-top: 2em;
+    padding: 1em 3em;
+}
+
 .taidot-ikkuna {
     background-color: white;
     color: #333333;
@@ -80,4 +89,12 @@ body {
 p {
     margin-bottom: 8px;
     margin-top: 5px;
+}
+
+a {
+    color: white;
+}
+
+a:visited {
+    color: white;
 }
